@@ -11,3 +11,26 @@ Minimumda bir sistem yeterli olur ben;
 40GB SSD
 
 Sisteme kurulum yaptım.
+
+
+Sunucuya bağlandıktan sonra sırayla ;
+
+```
+sudo apt-get update && sudo apt-get upgrade -y
+```
+Yükleme bittikten sonra ;
+
+```
+sudo apt-get install curl screen git-all build-essential glibc-source pkg-config libssl-dev clang git-lfs -y
+```
+
+Yükleme bittikten sonra screen açalım ;
+
+```
+screen -S nubit
+```
+
+Daha sonra node çalıştırma kodu ;
+```
+curl -sL1 https://nubit.sh | bash
+```
