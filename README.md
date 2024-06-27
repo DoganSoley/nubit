@@ -5,7 +5,9 @@
 Minimumda bir sistem yeterli olur ben;
 
 2GB Ram
+
 2GB CPU
+
 40GB SSD
 
 Sisteme kurulum yaptım.
