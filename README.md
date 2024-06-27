@@ -54,3 +54,10 @@ $HOME/nubit-node/bin/nkey list --p2p.network nubit-alphatestnet-1 --node.type li
 ```
 ![image](https://github.com/DoganSoley/nubit/assets/110679236/57d1263e-e2ff-4a07-83d1-2180cdf60686)
 Okla işaretlediğim yer " " arasında olan adres sizin pubkeyiniz.
+
+Arada bir girip node hala çalışıyor mu diye kontrol etmek için sunucuyu açtıktan sonra ;
+
+```
+screen -r nubit
+```
+Yazıp node durumunu kontrol edebilirsiniz eğer durursa yukarıdaki node çalıştırma koduyla tekrar çalıştırabilirsiniz.
