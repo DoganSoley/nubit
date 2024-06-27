@@ -1,0 +1,2 @@
+# nubit
+light node
