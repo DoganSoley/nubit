@@ -35,9 +35,12 @@ Daha sonra node çalıştırma kodu ;
 curl -sL1 https://nubit.sh | bash
 ```
 Eğer bu ekranda CTRL + C yaparsanız nodeyi durdurursunuz çalıştırma kodunu tekrar girmeniz gerekir.
+
 Nodeyi durdurmadan çıkmak için CTRL + A + D tuşlarıyla screenden çıkıyoruz.
 
 Tohum kelimelerini ve pubkey'i almak için kodları yazıyoruz.
+
+Bunları güvenli bir yere kaydedin.
 
 Tohum kelimelerini görme kodu ;
 
